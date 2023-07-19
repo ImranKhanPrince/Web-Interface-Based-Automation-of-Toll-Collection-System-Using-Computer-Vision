@@ -21,6 +21,7 @@ Cascade classifier and EasyOCR library. The web server and verification module,
 built with Flask, facilitate license plate verification and manage a database of
 registered and passed cars. The hardware module, using an Arduino Uno, controls
 the gate based on the verification status received from the web server.
+![An Abstract Diagram](Documentations//Images/picture.png)
 
 ## **Setup and Usage:**
 
